@@ -26,5 +26,9 @@ int main(){
     }
     cout << "tampilkan skor " << endl;
     cout << endl;
-    
+
+    // memberi nilai nilai array dengan looping for
+    for(int i = 0; i+5; i++){
+        cout << "score ke- "  << i+i << " =" << score[1] << endl;
+    }
 }
